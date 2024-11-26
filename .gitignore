@@ -1,0 +1,12 @@
+*.o
+*.a
+skynet/3rd/jemalloc
+
+server
+!server/src
+
+shell/*.tar.gz
+
+*.dSYM
+.DS_Store
+.vscode
